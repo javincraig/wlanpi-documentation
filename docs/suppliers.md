@@ -14,7 +14,7 @@ Authors: Nigel Bowden
 ## Comfast CF-912
 
 - [Amazon][CF912]
-- [ebay][CF912_ebay] (Note: this is a search link, check results show correct CF-921AC item)
+- [ebay][CF912_ebay] (Note: this is a search link, check results show correct CF-912AC item)
 
 <!-- Link list -->
 [WLPC_Store]: http://www.wlanpros.com/product-category/store/
